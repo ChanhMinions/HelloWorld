@@ -43,5 +43,5 @@ Tải và cài đặt Android Studio
 ### Chúc Các Bạn Thành Công !!!
 
 
-                                                                                                                        ![image](ezgif.com-crop.jpg)
+                                                                                                                        ![image](ezr.png)
                                                                                                                   
