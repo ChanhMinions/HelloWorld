@@ -8,8 +8,6 @@ Môi trường
 Tải và cài đặt Android Studio
 Để kiểm tra các ứng dụng Android chúng ta có thể cài đặt và sử dụng máy ảo AVD (Android Virtual Device) có sẵn trong Android Studio hay cài đặt máy ảo tại Genymotion.
 ### Tạo ứng dụng đầu tiên
--<a href="https://github.com/ChanhMinions/helloworldandroid">Làm quen môi trường Android</a>
-
 -<a href="https://www.youtube.com/watch?v=AVyxX9WsCVQ&feature=emb_logo">Link Hướng Dẫn nhiều hơn</a>
 
 -Mở Android Studio
