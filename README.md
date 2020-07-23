@@ -31,4 +31,11 @@ Tải và cài đặt Android Studio
 
 - Tại cửa sổ B, mặc định chứa hai tập tin là activity_main.xml và MainActivity.java. Tập tin MainActivity.java là nơi chứa mã Java:
 
+- Và lúc này tập tin activity_main.xml ở chế độ Design sẽ trông như sau:
+
 ![image](Untitled5.png)
+
+- Nhấn OK. Nếu thực thi thành công, kết quả trên thiết bị ảo như sau:
+
+![image](Untitled6.png)
+
