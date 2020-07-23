@@ -19,3 +19,7 @@ Tải và cài đặt Android Studio
 -Nhập tên ứng dụng (Hello World) trong mục Application Name, nhập vị trí lưu ứng dụng tại mục Project Location:
 
 ![image](android1.png)
+
+-Mặc định Android Studio dùng ngôn ngữ chính là Java
+
+![image](android2.png)
