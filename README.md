@@ -30,3 +30,5 @@ Tải và cài đặt Android Studio
 - Thư mục com.ngocminhtran.helloworld (được chọn từ hình trên) trong thư mục java gọi là một gói (package) hiện tại chỉ chứa một lớp là MainActivity.
 
 - Tại cửa sổ B, mặc định chứa hai tập tin là activity_main.xml và MainActivity.java. Tập tin MainActivity.java là nơi chứa mã Java:
+
+![image](Untitled5.png)
