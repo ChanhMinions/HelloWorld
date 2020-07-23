@@ -42,6 +42,9 @@ Tải và cài đặt Android Studio
 
 ### Chúc Các Bạn Thành Công !!!
 
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://github.com/ChanhMinions/DaoQuanhUngDungAndroid">Dạo quanh ứng dụng Android trong Android Studio 3.X!</a>
 
 ![image](ezr.png)
 
