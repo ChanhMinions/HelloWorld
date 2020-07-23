@@ -1,6 +1,6 @@
 ## Bài Tập Về Làm quen môi trường Android Studio và ứng dụng Android
 
--<a href= "https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/"> Ứng Dụng Từ Bài</a>
+- <a href= "https://ngocminhtran.com/2018/06/28/lap-trinh-android-dung-android-studio-3-x/"> Ứng Dụng Từ Bài</a>
 
 ### Yêu Cầu
 A. MÔ TẢ VỀ Android Studio:
